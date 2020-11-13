@@ -1,9 +1,11 @@
 import React from 'react';
 import './App.css';
+import Home from './components/index'
 
 function App() {
   return (
-   <> <h1>Welcome to my Portfolio</h1>
+   <> 
+   <Home/>
    </>
   );
 }
