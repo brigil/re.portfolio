@@ -1,16 +1,19 @@
 .body1{
     text-align: center; 
-    padding-top: 50px;
-  
-     
+    padding-top: 160px;  
  }
  body{
     background-image:url("https://wallpaperaccess.com/full/628286.jpg");
     background-attachment: fixed;
     background-size: auto 100%;           
     background-repeat:   no-repeat;
-    background-position: center center; 
-   
-  
-   
+    background-position: center center;
+ }
+ .introPic{
+   border-radius: 95px;
+ }
+ .hello{
+   font-family: 'Amatic SC', cursive;
+   color: white;
+   font-size: 60px;
  }
