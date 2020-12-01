@@ -1,5 +1,5 @@
 import React from 'react'
-import logoname from '../images/logoname.png';
+
 
 
 function Navbar() {
@@ -7,8 +7,8 @@ function Navbar() {
     
        <nav className="navbar navbar-expand-lg navbar-light bg-light">
       <a className="navbar-brand" href="./aboutme.html">
-      <img src={logoname} width="150" height="50"/>
-      </a>
+      <img src="https://fontmeme.com/temporary/55b66cd6cb9c8fdb303d88c74bd7d411.png" width="50" height="40"/>
+      <img src="https://fontmeme.com/temporary/87810fb898b2de25295d3cbf26606a9f.png" width="70" height="40"/></a>
       <button
         className="navbar-toggler"
         data-toggle="collapse"
