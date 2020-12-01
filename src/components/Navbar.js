@@ -8,7 +8,7 @@ function Navbar() {
        <nav className="navbar navbar-expand-lg navbar-light bg-light">
       <a className="navbar-brand" href="./aboutme.html">
       <img src="https://fontmeme.com/temporary/55b66cd6cb9c8fdb303d88c74bd7d411.png" width="50" height="40"/>
-      <img src="https://fontmeme.com/temporary/87810fb898b2de25295d3cbf26606a9f.png" width="70" height="40"/></a>
+      <img src="https://fontmeme.com/permalink/201201/87810fb898b2de25295d3cbf26606a9f.png" width="70" height="40"/></a>
       <button
         className="navbar-toggler"
         data-toggle="collapse"
